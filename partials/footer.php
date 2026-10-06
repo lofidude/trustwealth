@@ -38,7 +38,7 @@ if (!isset($scripts)) {
                 <h3>Get in touch</h3>
                 <ul class="contact">
                     <li><i class="fa-solid fa-location-dot"></i> Muhlenstrasse 38, Regensburg, Germany</li>
-                    <li><i class="fa-solid fa-envelope"></i> <a href="mailto:obiezedavis468@gmail.com">obiezedavis468@gmail.com</a></li>
+                    <li><i class="fa-solid fa-envelope"></i> <a href="mailto:trustwealthltd1@gmail.com">obiezedavis468@gmail.com</a></li>
                     <li><i class="fa-solid fa-globe"></i> <a href="http://btcsitec09.com" rel="noopener">btcsitec09.com</a></li>
                     <li><i class="fa-solid fa-phone"></i> <a href="tel:+17722330349">+1 (772) 233-0349</a></li>
                 </ul>
